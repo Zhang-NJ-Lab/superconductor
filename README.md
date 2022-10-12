@@ -1,5 +1,5 @@
 # superconductor
-建模超导，目标数据Tc
+建模超导，目标数据Tc, 模型非常不准确，需要改变算法或改变超参数
 
 # 文件说明
 superconductor.ipynb  主要的python jupyter文件
